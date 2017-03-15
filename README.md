@@ -21,7 +21,7 @@ A guide to oskar is available on the [Wiki](https://github.com/PositroniumSpectr
 
 ## Installation
 
-This fork of oskar requires LabVIEW 2013 (or higher) Full Development Edition.  The DAQ example `fake\_camera.vi' requires the NI Vision Development Module.
+Oskar requires LabVIEW 2013 (or higher) Full Development Edition.  The DAQ example `fake\_camera.vi' requires the NI Vision Development Module.
 
 - Install [HDF5](https://www.hdfgroup.org/HDF5/release/obtain5.html). Select 32-bit/ 64-bit version to match LabVIEW install. Reboot.
 - Download the latest version of the [h5labview library](http://h5labview.sourceforge.net/) and install it using the using [JKI VI package manager](http://vipm.jki.net/). 
