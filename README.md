@@ -1,6 +1,8 @@
 oskar
 =======
 for coordinating and recording experiments with LabVIEW and HDF5
+
+A fork of oskar that uses LabVIEW 2015 and [LIVE HDF5](http://sine.ni.com/nips/cds/view/p/lang/en/nid/212983) is available [here](https://github.com/ad3ller/oskar_15).
 ****
 
 @author: Adam Deller
