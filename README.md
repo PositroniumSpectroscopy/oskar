@@ -1,10 +1,9 @@
 oskar
 =======
-for coordinating and recording experiments with LabVIEW and HDF5
 
-A fork of oskar that uses LabVIEW 2015 and [LIVE HDF5](http://sine.ni.com/nips/cds/view/p/lang/en/nid/212983) is available [here](https://github.com/ad3ller/oskar_15).
-****
+For coordinating and recording experiments with LabVIEW and HDF5
 
+***
 @author: Adam Deller
 
 oskar is a collection of Labview vi's that help with the tasks of (i) systematically controlling hardware and (ii) organizing acquired data using [HDF5](https://www.hdfgroup.org/why_hdf/ "https://www.hdfgroup.org/why_hdf/").  
@@ -35,3 +34,7 @@ Recommended:
  - [HDFView](https://www.hdfgroup.org/products/java/hdfview/) (for opening and exploring HDF5 files).
 
 There are many freely available libraries for importing hdf5 data for analysis, e.g., [h5py](http://www.h5py.org/) for python.
+
+## Forks
+
+- [oskar_15](https://github.com/ad3ller/oskar_15) is written using LabVIEW 2015 and [LIVE HDF5](http://sine.ni.com/nips/cds/view/p/lang/en/nid/212983).
